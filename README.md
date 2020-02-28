@@ -1,4 +1,5 @@
 # FIRST-MEET-UP
+NOTE: This repo will be updated regularly.
 Here is the link to all resources including notebooks and materials used for the training.
 
 
